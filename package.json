@@ -2,7 +2,7 @@
   "name": "ng2quick",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "src/app.js",
   "dependencies": {
     "angular2": "^2.0.0-alpha.35",
     "systemjs": "^0.16.11",
